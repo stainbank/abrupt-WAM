@@ -22,28 +22,29 @@ The focus will move away from a reinterpretation of evidence in light of updated
     - Recovery/ regreening
         - Decoupled land-surface/WAM
         - Spatially heterogenous
-        - Changing rainfall patterns
-- WAM operation mechanism
-    - Insolation
-    - Traditional --> Nicholson interpretation
-- Mechanisms of influence on variability
-    - Runaway desertification --> Climate controlled
-    - Direct vs indirect forcing
-    - Oceanic driver
-        - Tropical Indian/ Pacific SSTs
-        - Atlantic SSTs
-            - Tropical
-            - Extratropical
-            - Cross-equatorial gradient
+        - Changing rainfall regime  
+- SST-WAM variability *statistics*
+    - Tropical Indian, Pacific
+    - Atlantic (Tropical, Pacific, cross-equatorial gradient) 
+- SST-WAM variability *mechanics*
+    - Traditional dynamics 
+    - Traditional mechanics
+    - New dynamics
+    - New mechanics
+    - Summarise old/traditional competition
+- Non oceanic influences
     - Land-surface -- Atmosphere
         - Evapotranspiration
         - Albedo
         - Soil moisture
         - Aerosols
+    - Direct (radiative) CO2 forcing
+    - Evaluate importance
 - GCMs to understand mechanisms and future 
     - CMIP 3, 5
-    - Successes
-    - Issues, biases
+    - Successes, issues, biases
+        - Indirect vs Direct
+        - Old vs New
     - Inadequacy of historic record in constraining projections
         - Change in dominant influence from tropical to extratropical
 
